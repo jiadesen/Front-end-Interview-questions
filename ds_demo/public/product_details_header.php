@@ -31,7 +31,7 @@
     <div class="shop-class fl">
       <h3>全部商品分类<i></i></h3>
       <!--分类列表-->
-      <div class="shop-class-show">
+      <div class="shop-class-show hide">
         <dl class="shop-class-item">
           <dt>
             <a href="#" class="b">手机/数码</a>

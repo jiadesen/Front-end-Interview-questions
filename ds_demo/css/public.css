@@ -63,7 +63,6 @@ a:hover {
 
 .left-area {
   float: left;
-  font-weight: bold;
 }
 
 .right-area {
@@ -78,8 +77,13 @@ a:hover {
   display: block;
 }
 
+.gray {
+  background: #F0F0F0;
+}
+
 /*top-bar*/
 .top-bar {
+  width: 100%;
   height: 31px;
   background: #F7F7F7;
   line-height: 31px;
@@ -92,6 +96,7 @@ a:hover {
 
 /*logo*/
 .logo-bar {
+  width: 100%;
   height: 85px;
   background: #1D7AD9;
 }
@@ -435,4 +440,14 @@ a:hover {
 
 .web img {
   margin: 0 12px;
+}
+
+/*图片合并*/
+.stars,
+.hg-icon,
+.cart-prompt-icon,
+.shopClass-icon,
+.hot {
+  background-image: url(../img/icon/icon.png);
+  background-repeat: no-repeat;
 }

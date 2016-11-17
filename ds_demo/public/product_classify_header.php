@@ -4,17 +4,17 @@
 <div class="top-bar">
   <div class="com-width">
     <div class="left-area">
-      <a href="#" class="collection">收藏慕课</a>
+      <a href="#" class="collection">收藏商城</a>
     </div>
     <div class="right-area">
-      欢迎来到慕课网！<a href="#">[登录]</a><a href="#">[免费注册]</a>
+      欢迎来到商城！<a href="#">[登录]</a><a href="#">[免费注册]</a>
     </div>
   </div>
 </div>
 <div class="logo-bar">
   <div class="com-width">
     <div class="logo fl">
-      <a href="#"><img src="img/logo.jpg" alt="慕课网"></a>
+      <a href="#"><img src="img/logo.jpg" alt="商城"></a>
     </div>
     <div class="search-box fl">
       <input type="text" class="search-text fl">
@@ -147,102 +147,6 @@
             </ul>
           </dd>
         </dl>
-      </div>
-      <!--右侧弹出列表-->
-      <div class="shop-class-list hide">
-        <dl class="shop-list-item">
-          <dt>电脑整机</dt>
-          <dd>
-            <a href="#">笔记本</a>
-            <a href="#">超极本</a>
-            <a href="#">上网本</a>
-            <a href="#">平板电脑</a>
-            <a href="#">台式机</a>
-          </dd>
-        </dl>
-        <dl class="shop-list-item">
-          <dt>装机配件</dt>
-          <dd>
-            <a href="#">CPU</a>
-            <a href="#">硬盘</a>
-            <a href="#">SSD固态硬盘</a>
-            <a href="#">内存</a>
-            <a href="#">显示器</a>
-            <a href="#">智能显示器</a>
-            <a href="#">主板</a>
-            <a href="#">显卡</a>
-            <a href="#">机箱</a>
-            <a href="#">电源</a>
-            <a href="#">散热器</a>
-            <a href="#">刻录机/光驱</a>
-            <a href="#">声卡</a>
-            <a href="#">拓展卡</a>
-            <a href="#">服务器配件</a>
-            <a href="#">DIY小附件</a>
-            <a href="#">装机/配件安装</a>
-          </dd>
-        </dl>
-        <dl class="shop-list-item">
-          <dt>整机附件</dt>
-          <dd>
-            <a href="#">电脑包</a>
-            <a href="#">电脑桌</a>
-            <a href="#">电池</a>
-            <a href="#">电源适配器</a>
-            <a href="#">贴膜</a>
-            <a href="#">清洁用品</a>
-            <a href="#">笔记本散热器</a>
-            <a href="#">USB拓展</a>
-            <a href="#">平板配件</a>
-            <a href="#">特色附件</a>
-            <a href="#">插座网线/电话线</a>
-            <a href="#">影音线材</a>
-            <a href="#">电脑线材</a>
-          </dd>
-        </dl>
-        <dl class="shop-list-item">
-          <dt>电脑外设</dt>
-          <dd>
-            <a href="#">鼠标</a>
-            <a href="#">键盘</a>
-            <a href="#">游戏外设</a>
-            <a href="#">移动硬盘</a>
-            <a href="#">摄像头</a>
-            <a href="#">高清播放器</a>
-            <a href="#">外置盒</a>
-            <a href="#">移动硬盘包</a>
-            <a href="#">手写板/绘图板</a>
-          </dd>
-        </dl>
-        <dl class="shop-list-item">
-          <dt>网络设备</dt>
-          <dd>
-            <a href="#"></a>
-            <a href="#">路由器</a>
-            <a href="#">网卡</a>
-            <a href="#">3G无限网卡</a>
-            <a href="#">交换机</a>
-            <a href="#">网络存储</a>
-            <a href="#">布线工具</a>
-            <a href="#">网络配件</a>
-            <a href="#">正版软件</a>
-          </dd>
-        </dl>
-        <dl class="shop-list-item">
-          <dt>音频设备</dt>
-          <dd>
-            <a href="#">音箱</a>
-            <a href="#">耳机/耳麦</a>
-            <a href="#">麦克风</a>
-            <a href="#">声卡</a>
-            <a href="#">音频附件</a>
-            <a href="#">录音笔</a>
-          </dd>
-        </dl>
-        <div class="shop-list-links">
-          <a href="#">电脑整机频道<span></span></a>
-          <a href="#">硬件/外设频道<span></span></a>
-        </div>
       </div>
     </div>
     <ul class="nav fl">
